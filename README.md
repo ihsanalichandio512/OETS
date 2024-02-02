@@ -1,1 +1,1 @@
-#  This is my Final Year Projecr
+#  This is my Final Year Project
